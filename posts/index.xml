@@ -6,14 +6,25 @@
     <description>Recent content in Posts on Test Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Dec 2023 15:32:58 -0600</lastBuildDate><atom:link href="https://benjamin448.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Dec 2023 10:06:46 -0600</lastBuildDate><atom:link href="https://benjamin448.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Test</title>
+      <link>https://benjamin448.github.io/posts/secondtest/</link>
+      <pubDate>Fri, 29 Dec 2023 10:06:46 -0600</pubDate>
+      
+      <guid>https://benjamin448.github.io/posts/secondtest/</guid>
+      <description>This is a second test post.</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://benjamin448.github.io/posts/test/</link>
       <pubDate>Thu, 28 Dec 2023 15:32:58 -0600</pubDate>
       
       <guid>https://benjamin448.github.io/posts/test/</guid>
-      <description>This is a test post</description>
+      <description>Heading 1.1 This is a test post
+Heading 2.1 Another test paragraph
+Heading 2.2 Text under a subheading</description>
     </item>
     
   </channel>
