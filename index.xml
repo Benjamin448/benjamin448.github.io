@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Site</title>
+    <title>STEM MC</title>
     <link>https://benjamin448.github.io/</link>
-    <description>Recent content on Test Site</description>
+    <description>Recent content on STEM MC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Dec 2023 10:06:46 -0600</lastBuildDate><atom:link href="https://benjamin448.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 11:22:00 -0600</lastBuildDate>
+    <atom:link href="https://benjamin448.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Test</title>
-      <link>https://benjamin448.github.io/posts/secondtest/</link>
-      <pubDate>Fri, 29 Dec 2023 10:06:46 -0600</pubDate>
-      
-      <guid>https://benjamin448.github.io/posts/secondtest/</guid>
-      <description>This is a second test post.</description>
+      <title>Why Should I Learn Scratch?</title>
+      <link>https://benjamin448.github.io/thoughts/learn-scratch-reasons/</link>
+      <pubDate>Sat, 13 Apr 2024 11:22:00 -0600</pubDate>
+      <guid>https://benjamin448.github.io/thoughts/learn-scratch-reasons/</guid>
+      <description>On the surface, it may appear that Scratch is simply a program for kids to learn the basics of coding. But under the surface, Scratch is a programming language that teaches anyone skills that are used both inside and outside of the programming world.
+Problem Solving Scratch is a great tool for learning problem solving skills. When you use Scratch, you are confronted with many &amp;ldquo;problems&amp;rdquo;, or challenges: how do I make Scratch Cat move when I press the arrow keys?</description>
     </item>
-    
     <item>
-      <title>Test</title>
-      <link>https://benjamin448.github.io/posts/test/</link>
-      <pubDate>Thu, 28 Dec 2023 15:32:58 -0600</pubDate>
-      
-      <guid>https://benjamin448.github.io/posts/test/</guid>
-      <description>Heading 1.1 This is a test post
-Heading 2.1 Another test paragraph
-Heading 2.2 Text under a subheading</description>
+      <title>Alt-Click: The Most Helpful Costume Editor Shortcut in Scratch</title>
+      <link>https://benjamin448.github.io/tips/alt-click-costume-editor/</link>
+      <pubDate>Sat, 13 Apr 2024 11:04:00 -0600</pubDate>
+      <guid>https://benjamin448.github.io/tips/alt-click-costume-editor/</guid>
+      <description>Alt-click simply duplicates whatever you click on, but it has some features copy-paste doesn&amp;rsquo;t have.</description>
     </item>
-    
-    
-    
   </channel>
 </rss>
